@@ -1,6 +1,4 @@
-Hola, esto es una prueba de como comparar archivos entre commits.
-
-Prueba de modificación del archivo
+Hola, tengo 31 años, nací en cali
 
 Diana Valencia
 Ingeniera de Sistemas
