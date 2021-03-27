@@ -1,0 +1,14 @@
+.miNombre{
+    font: 18px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: brown;
+    font-weight: bold;
+    text-align: center;
+}
+
+.miParrafo{
+    font: 12px; 
+    font-family: cursive;
+    color: cornflowerblue;
+    font-weight: normal;
+}
