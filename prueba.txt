@@ -1,5 +1,7 @@
-Hola, esto es una prueba de git rm y git rm --cached
+Hola, esto es una prueba de como comparar archivos entre commits.
 
 Prueba de modificación del archivo
 
 Diana Valencia
+Ingeniera de Sistemas
+Universidad del Valle
