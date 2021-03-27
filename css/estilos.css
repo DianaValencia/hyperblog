@@ -1,7 +1,6 @@
 .miNombre{
-    font: 18px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color: brown;
+    font: 20px;
+    font-family: Arial;
     font-weight: bold;
     text-align: center;
 }
@@ -9,13 +8,18 @@
 .miParrafo{
     font: 12px; 
     font-family: cursive;
-    color: cornflowerblue;
     font-weight: normal;
 }
 
 .miNuevoDIV{
-    background-color: cadetblue;
-    margin: 0;
-    height: 250px;
-    width: 250px;
+    margin: 0 auto;
+    width: 70%;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.resaltar{
+    color: red;
+    font-weight: bold;
 }
