@@ -1,1 +1,5 @@
 Hola, esto es una prueba de git rm y git rm --cached
+
+Prueba de modificación del archivo
+
+Diana Valencia
