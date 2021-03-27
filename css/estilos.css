@@ -12,3 +12,10 @@
     color: cornflowerblue;
     font-weight: normal;
 }
+
+.miNuevoDIV{
+    background-color: cadetblue;
+    margin: 0;
+    height: 250px;
+    width: 250px;
+}
