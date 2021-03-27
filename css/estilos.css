@@ -5,11 +5,11 @@
 
 .miParrafo{
     font: 12px; 
-    font-family: 'Courier New', Courier, monospace;
     font-weight: normal;
 }
 
 .container{
+    font-family: 'Courier New', Courier, monospace;
     margin: 0 auto;
     width: 70%;
     border: 1px solid black;
