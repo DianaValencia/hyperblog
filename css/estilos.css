@@ -4,18 +4,19 @@
 }
 
 .miParrafo{
-    font: 12px; 
+    font-size: 20px; 
     font-weight: normal;
+    text-align: justify;
 }
 
 .container{
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Arial, Helvetica, sans-serif;
     margin: 0 auto;
     width: 70%;
-    border: 1px solid black;
+    border: 1px solid white;
     border-radius: 5px;
-    padding: 10px;
     color: gray;
+    background-color: white;
 }
 
 .resaltar{
@@ -25,15 +26,29 @@
 
 .cabecera{
     font-size: 2em;
-    background-color: blue;
+    background-color:darkslateblue;
     color: white;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0,5);
     font-weight: bold;
-    padding: 0 2em;
+    display: flex;
+    padding: 10px;
 }
 
 .cabecera span{
   padding: 0 0 0 1em;
   font-weight: normal;
-  font-size:  0.8em;
+}
+
+.imagen{
+    width: 37px;
+    height: 37px;
+    padding-right: 0.8em;
+}
+
+.miNuevoDIV{
+    padding: 20px;
+}
+
+body{
+    background-color: black;
 }
