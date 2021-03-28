@@ -14,7 +14,6 @@
     width: 70%;
     border: 1px solid black;
     border-radius: 5px;
-    padding: 10px;
     color: gray;
 }
 
@@ -36,4 +35,12 @@
   padding: 0 0 0 1em;
   font-weight: normal;
   font-size:  0.8em;
+}
+
+.footer{
+    background-color: darkblue;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 20px;  
 }
