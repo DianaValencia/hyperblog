@@ -6,6 +6,8 @@ Cambie el color del footer Att Anita
 
 Master 1 - Probando el rebase
 
+Master 2
+
 Diana Valencia
 Ingeniera de Sistemas
 Universidad del Valle
