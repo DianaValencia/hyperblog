@@ -65,3 +65,7 @@ body{
 .equipo{
     text-align: center;
 }
+
+.equipo img{
+    width: 100%;
+}
