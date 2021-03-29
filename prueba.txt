@@ -2,6 +2,8 @@ Hola, tengo 31 años, nací en cali
 
 Me gusta el desarrollo de software
 
+Cambie el color del footer Att Anita
+
 Diana Valencia
 Ingeniera de Sistemas
 Universidad del Valle
